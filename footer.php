@@ -1,3 +1,4 @@
+<!--footer.php-->
 </main>
 <?php get_sidebar(); ?>
 </div>
@@ -10,3 +11,4 @@
 <?php wp_footer(); ?>
 </body>
 </html>
+<!--/footer.php-->

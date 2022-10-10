@@ -1,3 +1,4 @@
+<!--author.php-->
 <?php get_header(); ?>
 <header class="header">
 <?php the_post(); ?>
@@ -10,3 +11,4 @@
 <?php endwhile; ?>
 <?php get_template_part( 'nav', 'below' ); ?>
 <?php get_footer(); ?>
+<!--/author.php-->

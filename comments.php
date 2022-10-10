@@ -1,3 +1,4 @@
+<!--comments.php-->
 <div id="comments">
 <?php
 if ( have_comments() ) :
@@ -38,3 +39,4 @@ endif;
 if ( comments_open() ) { comment_form(); }
 ?>
 </div>
+<!--/comments.php-->

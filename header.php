@@ -1,3 +1,4 @@
+<!--header.php-->
 <!DOCTYPE html>
 <html <?php language_attributes(); ?> <?php blankslate_schema_type(); ?>>
 <head>
@@ -26,3 +27,4 @@ if ( is_front_page() || is_home() || is_front_page() && is_home() ) { echo '</h1
 </header>
 <div id="container">
 <main id="content" role="main">
+<!--/header.php-->

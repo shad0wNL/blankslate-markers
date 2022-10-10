@@ -1,3 +1,4 @@
+<!--search.php-->
 <?php get_header(); ?>
 <?php if ( have_posts() ) : ?>
 <header class="header">
@@ -19,3 +20,4 @@
 </article>
 <?php endif; ?>
 <?php get_footer(); ?>
+<!--/search.php-->

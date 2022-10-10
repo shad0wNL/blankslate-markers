@@ -1,3 +1,4 @@
+<!--index.php-->
 <?php
 get_header();
 if ( have_posts() ) : while ( have_posts() ) : the_post();
@@ -6,3 +7,5 @@ comments_template();
 endwhile; endif;
 get_template_part( 'nav', 'below' );
 get_footer();
+?>
+<!--/index.php-->
