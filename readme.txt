@@ -1,3 +1,14 @@
+=== blankslate-markers ===
+
+This is a fork of tidythemes/blankslate. It adds HTML comments to the beginning and end of each file, allowing you to discern where the generated output came from more easily.
+
+It also adds PHP formatting to functions.php. Recommended for developers that are not fluent in WordPress' PHP and template layout.
+
+No other changes have been made.
+
+Below you will find the contents of the original readme.txt file.
+
+
 === BlankSlate ===
 
 Contributors: tidythemes, bhadaway
